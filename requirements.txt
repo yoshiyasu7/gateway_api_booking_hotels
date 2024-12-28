@@ -1,4 +1,7 @@
+pydantic
 fastapi
 uvicorn
+
+authx
 requests
 httpx
